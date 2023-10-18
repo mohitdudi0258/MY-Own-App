@@ -1,0 +1,22 @@
+                                                                                                                Font Size Increaser App
+                                   
+
+                                                                                : In this app we can help those people who can't see
+                                                                                       small words on computer, mobile    
+
+
+                                                                                  Our main purpose is to magnify the word by 
+                                                                                  a small "magnifying glass" icon.
+                                                                 
+      
+                                                                            We use TAB navigator for this app  
+                                                                             
+                                                                           We are creating Single screen 
+                                                                                  1.magnifier Screen 
+                                                                              
+                           
+                                                                             In magnifier screen we add all information about magnifier like
+                                                                                 Text color, Text size,  icon of magnifier to adjust all settings 
+
+
+ 
